@@ -11,14 +11,13 @@ const Header = () => {
       <div className={styles.text_box}>
         <h1 className={styles.heading_primary}>
           <span className={styles.heading_primary_main}>
-            Welcome to the world of ReactJS
+            Escape the Matrix
           </span>
-          <span className={styles.thapatext}>Love with JavaScript</span>
         </h1>
         <a
           href="#"
           className={`${styles.btn} ${styles.btn_white} ${styles.btn_animated}`}>
-          Thapa Technical
+          Click to Escape
         </a>
       </div>
     </header>

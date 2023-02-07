@@ -8,7 +8,7 @@
 const home = () => {
   return (
     <>
-      <h1>Hello World my Home </h1>
+      <h1>Welcome to the real world</h1>
     </>
   );
 };

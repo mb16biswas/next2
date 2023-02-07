@@ -6,9 +6,9 @@ const index = () => {
     <>
       <Head>
         <title>Home Page </title>
-        <meta name="description" content="Free Web youtube tutorials" />
-        <meta name="keywords" content="HTML, CSS, JavaScript, next.js" />
-        <meta name="author" content="thapa technical" />
+        <meta name="description" content="Learning next.js" />
+        <meta name="keywords" content="Escaping the matrix" />
+        <meta name="author" content="MB16" />
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1.0"></meta>
